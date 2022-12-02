@@ -1,0 +1,40 @@
+{
+    "contacts": [
+        {
+            "name": "Óðinn Skúlasson",
+            "id": 1,
+            "phoneNumber": "7764909",
+            "thumbnailPhoto": "https://images.prismic.io/indiecampers-demo/9f34856d-05da-4afb-832f-d3a36de83b7f_Hero---Kinderdijk.jpg"
+        },
+        {
+            "name": "Aldís Davíðsdottir",
+            "id": 2,
+            "phoneNumber": "7768809",
+            "thumbnailPhoto": "https://hbr.org/resources/images/article_assets/2019/06/Jun19_05_1040477378.jpg"
+        },
+        {
+            "name": "Birgir Árdal",
+            "id": 3,
+            "phoneNumber": "7768934",
+            "thumbnailPhoto": ""
+        },
+        {
+            "name": "Logi Birgisson",
+            "id": 4,
+            "phoneNumber": "7760909",
+            "thumbnailPhoto": "https://images.prismic.io/indiecampers-demo/9f34856d-05da-4afb-832f-d3a36de83b7f_Hero---Kinderdijk.jpg"
+        },
+        {
+            "name": "Finnur Pind",
+            "id": 5,
+            "phoneNumber": "8860909",
+            "thumbnailPhoto": "https://images-na.ssl-images-amazon.com/images/I/61fq9A8jEGL._SL1500_.jpg"
+        },
+        {
+            "name": "Lóa Jörgensdóttir",
+            "id": 6,
+            "phoneNumber": "7762309",
+            "thumbnailPhoto": "https://images.prismic.io/indiecampers-demo/9f34856d-05da-4afb-832f-d3a36de83b7f_Hero---Kinderdijk.jpg"
+        }
+    ]
+}
